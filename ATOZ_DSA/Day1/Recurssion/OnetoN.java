@@ -1,4 +1,4 @@
-
+package Day1.Recurssion;
 public class OnetoN {
     public static int[] printNos(int x) {
         // Write Your Code Here

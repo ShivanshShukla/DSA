@@ -1,3 +1,4 @@
+package Day1.Recurssion;
 class Recurssion {
 
     public static int sum(int x) {

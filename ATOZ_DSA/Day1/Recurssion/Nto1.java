@@ -1,3 +1,4 @@
+package Day1.Recurssion;
 public class Nto1 {
 
     public static int[] printNos(int x) {

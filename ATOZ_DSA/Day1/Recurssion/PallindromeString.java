@@ -1,3 +1,4 @@
+package Day1.Recurssion;
 class Re {
     public static boolean isPallindrome(String str) {
         String newStr = "";

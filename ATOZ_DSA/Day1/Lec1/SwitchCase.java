@@ -1,4 +1,4 @@
-package Lec1;
+package Day1.Lec1;
 
 public class SwitchCase {
 
