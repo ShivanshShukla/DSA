@@ -1,11 +1,9 @@
 package LeetCode;
 
-import java.util.Arrays;
+
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
-
-import javax.management.Query;
 
 public class E_1700 {
 
@@ -18,9 +16,9 @@ public class E_1700 {
             queue.add(i);
         }
         for (int i = arr2.length - 1; i >= 0; i--) {
-            stack.push(arr2[i]);
+            // stack.push(arr2[i]);
         }
-        while (!stack.isEmpty()) {
+        // while (!stack.isEmpty()) {
             if (stack.peek() == queue.peek()) {
                 stack.pop();
                 queue.remove();
@@ -33,6 +31,6 @@ public class E_1700 {
                     break;
             }
         }
-        System.out.println(queue.size());
+        // System.out.println(queue.size());
     }
-}
+// }

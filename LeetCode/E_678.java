@@ -1,7 +1,5 @@
 package LeetCode;
 
-import java.util.Collections;
-
 public class E_678 {
     public static void main(String[] args) {
         // valid brackets;
