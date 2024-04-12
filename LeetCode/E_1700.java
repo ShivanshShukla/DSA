@@ -1,6 +1,5 @@
 package LeetCode;
 
-
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
@@ -26,11 +25,11 @@ public class E_1700 {
                 int element = queue.remove();
                 queue.add(element);
                 if (queue.contains(stack.peek())) {
-                    continue;
+                    System.out.println();
                 } else
-                    break;
+                    System.out.println();
             }
         }
-        // System.out.println(queue.size());
-    }
+    // System.out.println(queue.size());
+}
 // }
