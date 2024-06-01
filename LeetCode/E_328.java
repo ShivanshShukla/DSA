@@ -1,4 +1,4 @@
-package LeetCode;
+
 
 import LinkedList.LinkedList;
 

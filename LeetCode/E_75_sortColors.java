@@ -1,4 +1,3 @@
-package LeetCode;
 
 public class E_75_sortColors {
 

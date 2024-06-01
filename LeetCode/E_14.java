@@ -1,4 +1,4 @@
-package LeetCode;
+
 
 public class E_14 {
     public static void main(String[] args) {

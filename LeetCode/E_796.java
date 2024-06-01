@@ -1,4 +1,4 @@
-package LeetCode;
+
 
 public class E_796 {
     public static void main(String[] args) {

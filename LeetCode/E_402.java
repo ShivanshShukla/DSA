@@ -1,4 +1,4 @@
-package LeetCode;
+
 
 public class E_402 {
     public static String removeZeros(String s) {

@@ -1,4 +1,3 @@
-package LeetCode;
 
 public class E_33 {
     public static void main(String[] args) {
